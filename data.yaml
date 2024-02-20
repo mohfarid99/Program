@@ -1,0 +1,13 @@
+names:
+- AB
+- MC
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: mcab-3
+  url: https://universe.roboflow.com/naufalfruit/mcab-3/dataset/1
+  version: 1
+  workspace: naufalfruit
+test: ../test/images
+train: MCAB-3-1/train/images
+val: MCAB-3-1/valid/images
